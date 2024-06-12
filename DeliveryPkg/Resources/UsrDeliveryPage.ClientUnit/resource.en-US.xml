@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Служба доставки товаров&quot;" />
+			<Item Name="LocalizableStrings.Tab27b76e0cTabLabelTabCaption.Value" Value="Информация о доставке" />
+			<Item Name="LocalizableStrings.UsrSchemaDetailDeliveryCitiesDetailCaptionOnPage.Value" Value="Города доставки" />
+		</Items>
+	</Group>
+</Resources>

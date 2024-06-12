@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="DailyInfo" />
+			<Item Name="ServiceMethods.GCDynamic_6af5b4c8.Caption" Value="GetCursDynamic" />
+			<Item Name="ServiceMethods.GCDynamic_6af5b4c8.Request.Parameters.FDate.Caption" Value="FromDate" />
+			<Item Name="ServiceMethods.GCDynamic_6af5b4c8.Request.Parameters.TDate.Caption" Value="ToDate" />
+			<Item Name="ServiceMethods.GCDynamic_6af5b4c8.Request.Parameters.VCode.Caption" Value="ValutaCode" />
+			<Item Name="ServiceMethods.GCDynamic_6af5b4c8.Response.Parameters.GCDResult.Caption" Value="GetCursDynamicResult" />
+			<Item Name="ServiceMethods.GCDynamic_cc228f0b.Caption" Value="GetCursDynamicXML" />
+			<Item Name="ServiceMethods.GCDynamic_cc228f0b.Request.Parameters.FDate.Caption" Value="FromDate" />
+			<Item Name="ServiceMethods.GCDynamic_cc228f0b.Request.Parameters.TDate.Caption" Value="ToDate" />
+			<Item Name="ServiceMethods.GCDynamic_cc228f0b.Request.Parameters.VCode.Caption" Value="ValutaCode" />
+			<Item Name="ServiceMethods.GCDynamic_cc228f0b.Response.Parameters.GCDResult.Caption" Value="GetCursDynamicXMLResult" />
+			<Item Name="ServiceMethods.GCODate_b2d40d77.Caption" Value="GetCursOnDateXML" />
+			<Item Name="ServiceMethods.GCODate_b2d40d77.Request.Parameters.On.Caption" Value="On_date" />
+			<Item Name="ServiceMethods.GCODate_b2d40d77.Response.Parameters.GCODResult.Caption" Value="GetCursOnDateXMLResult" />
+			<Item Name="ServiceMethods.GCODate_ef74568d.Caption" Value="GetCursOnDate" />
+			<Item Name="ServiceMethods.GCODate_ef74568d.Request.Parameters.On.Caption" Value="On_date" />
+			<Item Name="ServiceMethods.GCODate_ef74568d.Response.Parameters.GCODResult.Caption" Value="GetCursOnDateResult" />
+			<Item Name="ServiceMethods.GRCDynamic_79777f7c.Caption" Value="GetReutersCursDynamic" />
+			<Item Name="ServiceMethods.GRCDynamic_79777f7c.Request.Parameters.FDate.Caption" Value="FromDate" />
+			<Item Name="ServiceMethods.GRCDynamic_79777f7c.Request.Parameters.NCode.Caption" Value="NumCode" />
+			<Item Name="ServiceMethods.GRCDynamic_79777f7c.Request.Parameters.TDate.Caption" Value="ToDate" />
+			<Item Name="ServiceMethods.GRCDynamic_79777f7c.Response.Parameters.GRCDResult.Caption" Value="GetReutersCursDynamicResult" />
+			<Item Name="ServiceMethods.GRCDynamic_9132ce3b.Caption" Value="GetReutersCursDynamicXML" />
+			<Item Name="ServiceMethods.GRCDynamic_9132ce3b.Request.Parameters.FDate.Caption" Value="FromDate" />
+			<Item Name="ServiceMethods.GRCDynamic_9132ce3b.Request.Parameters.NCode.Caption" Value="NumCode" />
+			<Item Name="ServiceMethods.GRCDynamic_9132ce3b.Request.Parameters.TDate.Caption" Value="ToDate" />
+			<Item Name="ServiceMethods.GRCDynamic_9132ce3b.Response.Parameters.GRCDResult.Caption" Value="GetReutersCursDynamicXMLResult" />
+			<Item Name="ServiceMethods.GRCODate_7ef3fb22.Caption" Value="GetReutersCursOnDateXML" />
+			<Item Name="ServiceMethods.GRCODate_7ef3fb22.Request.Parameters.On.Caption" Value="On_date" />
+			<Item Name="ServiceMethods.GRCODate_7ef3fb22.Response.Parameters.GRCODResult.Caption" Value="GetReutersCursOnDateXMLResult" />
+			<Item Name="ServiceMethods.GRCODate_cc731671.Caption" Value="GetReutersCursOnDate" />
+			<Item Name="ServiceMethods.GRCODate_cc731671.Request.Parameters.On.Caption" Value="On_date" />
+			<Item Name="ServiceMethods.GRCODate_cc731671.Response.Parameters.GRCODResult.Caption" Value="GetReutersCursOnDateResult" />
+		</Items>
+	</Group>
+</Resources>

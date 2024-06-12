@@ -1,0 +1,13 @@
+= MetaData.Schema.UId "d5998bea-1ef1-4788-bed3-0bd4cb42441e"
+= MetaData.Schema.A2 "NsDeliveryMiniPage"
+= MetaData.Schema.A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A4 "d5998bea-1ef1-4788-bed3-0bd4cb42441e"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A4 "d5998bea-1ef1-4788-bed3-0bd4cb42441e"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A4 "d5998bea-1ef1-4788-bed3-0bd4cb42441e"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B6 "3c64e3e2-4cf5-e264-2e9b-34e2348dab37"
+= MetaData.Schema.B8 "7.18.5.1500"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

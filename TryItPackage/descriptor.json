@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "67b009ed-dc97-67e8-7d51-749ca5b3718b",
+    "Name": "TryItPackage",
+    "ModifiedOnUtc": "\/Date(1716979626000)\/",
+    "Maintainer": "Customer",
+    "Description": "Package with example for \"Try it\" section",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

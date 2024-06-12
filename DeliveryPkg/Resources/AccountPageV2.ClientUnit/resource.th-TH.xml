@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="การบำรุงรักษา" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="เลื่อนไปจนถึง" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Caption" Value="CompletenessCaption" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="ความครบถ้วนของโปรไฟล์" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="ร้อยละของความสมบูรณ์ของโปร์ไฟล์ คลิกที่ตัวชี้เพื่อดูว่ามีข้อมูลไหนบ้างที่คุณต้องทำโปรไฟล์ให้สมบูรณ์." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="โปรไฟล์เสร็จสมบูรณ์" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Caption" Value="EnrichedDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Caption" Value="EnrichedDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Caption" Value="EnrichmentDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Caption" Value="EnrichmentDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="ต้องระบุโปรไฟล์โซเชียลเนตเวิต์กอย่างน้อยหนึ่งโปรไฟล์สำหรับบัญชีนี้เพื่อให้ดำเนินการนี้ได้." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="อัพเดตด้วยข้อมูลโซเชียลเนตเวิต์ก" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="มีองค์ประกอบคิวมากกว่าหนึ่งที่เชื่อมต่อกับกระบวนการ  ไอดีของกระบวนการ: {0}" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="ต้องระบุโปร์ไฟล์โซเชียลเนตเวิต์กอย่างน้อยหนึ่งโปรไฟล์สำหรับบัญชีนี้เพื่อให้ดำเนินการนี้ได้" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="จัดคิวใหม่" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="ไม่สามารถจัดคิวรายการใหม่  ข้อความผิดพลาด: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="หน้าไม่ได้เชื่อมต่อกับองค์ประกอบคิวในเดสท้อปของตัวแทน การทำงานถูกยกเลิก." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="ไม่สามารถจัดคิวรายการใหม่" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="จัดคิวใหม่ได้สำเร็จ" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Caption" Value="RightsErrorMessage" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Insufficient rights to perform this action. Contact your system administrator." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

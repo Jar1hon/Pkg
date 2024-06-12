@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "36482f11-df32-c1c6-0783-ba031f51549d",
+    "Name": "GeneralPkg",
+    "ModifiedOnUtc": "\/Date(1717233312000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

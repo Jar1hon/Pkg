@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "59e89e0d-44bf-4bb4-a86f-21fbe037a31b",
+    "Name": "UsrClientCategoryLookup",
+    "ModifiedOnUtc": "\/Date(1717664148000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Типы категорий клиентов"
+  }
+}

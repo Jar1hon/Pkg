@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="I, IS, U, D" />
+			<Item Name="Caption" Value="Insert, InsertSelect, Update, Delete" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.AccountName.Caption" Value="Название контрагента" />
+			<Item Name="Parameters.AccountName.DisplayValue" Value="Тест" />
+			<Item Name="Parameters.AccountName.Value" Value="Тест" />
+			<Item Name="Parameters.ContactName.Caption" Value="Имя контакта" />
+			<Item Name="Parameters.ContactName.DisplayValue" Value="Степан" />
+			<Item Name="Parameters.ContactName.Value" Value="Степан" />
+			<Item Name="Parameters.DeleteName.Caption" Value="Имя удаляемого контакта" />
+			<Item Name="Parameters.DeleteName.DisplayValue" Value="123" />
+			<Item Name="Parameters.DeleteName.Value" Value="123" />
+		</Items>
+	</Group>
+</Resources>

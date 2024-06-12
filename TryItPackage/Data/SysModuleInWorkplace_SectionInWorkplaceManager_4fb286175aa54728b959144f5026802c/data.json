@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4fb28617-5aa5-4728-b959-144f5026802c"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "ca226d7d-0dcf-4315-addb-4e4e7369ede5",
+          "DisplayValue": "Sales"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "8f96b0b3-a5ef-4411-b08c-b190803f82d0",
+          "DisplayValue": "Групповые секции"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 19
+        }
+      ]
+    }
+  ]
+}

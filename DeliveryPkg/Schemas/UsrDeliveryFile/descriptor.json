@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2a17331-d108-49ad-9ff7-7eb74487145f",
+    "Name": "UsrDeliveryFile",
+    "ModifiedOnUtc": "\/Date(1717582912000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Служба доставки товаров"
+  }
+}

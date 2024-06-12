@@ -1,0 +1,20 @@
+= MetaData.Schema.UId "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.A2 "UsrAccountProfileSchema"
+= MetaData.Schema.A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+= MetaData.Schema.B2.["0e0b5d68-2f5f-42ce-99b4-5acc53b3d257"].A4 "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.B2.["0e0b5d68-2f5f-42ce-99b4-5acc53b3d257"].A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+= MetaData.Schema.B2.["b296aa43-34b9-4cfe-bd62-d0ba1db71671"].A4 "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.B2.["b296aa43-34b9-4cfe-bd62-d0ba1db71671"].A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+= MetaData.Schema.B2.["c8c26cc8-b49d-447a-a2dc-5bf0a8d6b462"].A4 "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.B2.["c8c26cc8-b49d-447a-a2dc-5bf0a8d6b462"].A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+= MetaData.Schema.B2.["5e2163cf-74a8-4d18-8ead-1830fc82496f"].A4 "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.B2.["5e2163cf-74a8-4d18-8ead-1830fc82496f"].A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+= MetaData.Schema.B2.["36c34332-8d7a-46da-ab47-dd3cd35f7436"].A4 "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5"
+= MetaData.Schema.B2.["36c34332-8d7a-46da-ab47-dd3cd35f7436"].A5 "ac5b54ee-87c4-459f-b84f-b9db57f6a35c"
+~ MetaData.Schema.B2 ["0e0b5d68-2f5f-42ce-99b4-5acc53b3d257","b296aa43-34b9-4cfe-bd62-d0ba1db71671","c8c26cc8-b49d-447a-a2dc-5bf0a8d6b462","5e2163cf-74a8-4d18-8ead-1830fc82496f","36c34332-8d7a-46da-ab47-dd3cd35f7436"]
+= MetaData.Schema.B6 "c802407e-052a-505a-0b50-19b9b480a5a0"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.HD1 "e2ef070e-eb17-4c57-bfef-a826fb3d6d26"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

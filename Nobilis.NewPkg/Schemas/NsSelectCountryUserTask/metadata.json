@@ -1,0 +1,37 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+      "A2": "NsSelectCountryUserTask",
+      "A5": "f6a8c53e-5b78-4b55-8d2e-f13afe66c202",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "3c64e3e2-4cf5-e264-2e9b-34e2348dab37",
+      "B8": "7.18.5.1500",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "1e9c27b6-278a-d3ea-5079-bdb1f49f6e27",
+          "A2": "Result",
+          "A3": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+          "A4": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "a0f19443-0b7b-aa3e-a295-37cb5ea647c5",
+          "A2": "CityId",
+          "A3": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+          "A4": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {}
+        }
+      ],
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

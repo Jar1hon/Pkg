@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Mentinere" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Amana pana la" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Caption" Value="CompletenessCaption" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Finalizare profil" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Procent de finalizare a profilului. Accesati indicatorul pentru a vizualiza ce date mai sunt necesare pentru a finaliza profilul." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil finalizat" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Caption" Value="EnrichedDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Caption" Value="EnrichedDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Caption" Value="EnrichmentDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Caption" Value="EnrichmentDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Alimentare" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Cel putin un profil de retea sociala trebuie specificat pentru cont pentru a rula aceasta actiune." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Actualizati cu datele retelelor sociale" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mai mult decat un element in coada conexat procesului. Id Proces: {0}" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Cel putin un profil de retea sociala trebuie specificat pentru cont pentru a rula aceasta actiune" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Refa coada" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nu a fost posibila repunerea in coada a item-ului. Mesaj de eroare: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Pagina nu este conectata la elementul in coada pe ecranul agentului. Actiune anulata." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nu a fost posibila re-punerea in coada a item-ului" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Re-punere in coada cu succes" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Caption" Value="RightsErrorMessage" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Insufficient rights to perform this action. Contact your system administrator." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Urmati alimentarea" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="In acest moment urmati alimentarea: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ati renuntat la urmarirea alimentarii: {0}" />
+		</Items>
+	</Group>
+</Resources>

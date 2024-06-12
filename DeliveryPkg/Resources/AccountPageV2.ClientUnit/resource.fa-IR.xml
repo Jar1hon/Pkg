@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="نگهداری" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="به تعویق انداختن تا" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Caption" Value="CompletenessCaption" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="تکمیل مشخصات" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="میزان درصد تکمیل پروفایل. روی نوار کلیک کنید تا نمایش کنید کدام اطلاعات را برای تکمیل اطلاعات نیاز دارید." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="پروفایل تکمیل است" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Caption" Value="EnrichedDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Caption" Value="EnrichedDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Caption" Value="EnrichmentDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Caption" Value="EnrichmentDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="فید" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="برای اجرای این عمل حداقل یک پروفایل شبکه اجتماعی باید برای مشترک مشخص شود." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="بروز رسانی با اطلاعات شبکه های اجتماعی" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="بیش از یک عنصر صف به فرایند متصل است. شناسه فرایند: {0}" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="برای اجرای این عمل حداقل یک پروفایل شبکه اجتماعی باید برای مشترک مشخص شود" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="تشکیل صف دوباره" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد. پیام خطا: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="صفحه به عنصر صف عامل دسکتاپ متصل نیست. اقدام لغو شد." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="با موفقیت دوباره در صف قرار گرفت" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Caption" Value="RightsErrorMessage" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Insufficient rights to perform this action. Contact your system administrator." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>

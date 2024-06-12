@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e61ff52b-0d98-44b6-b006-690f1aa7b6d7",
+    "Name": "UsrDeliveryInFolder",
+    "ModifiedOnUtc": "\/Date(1717582917000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Служба доставки товаров в группе"
+  }
+}

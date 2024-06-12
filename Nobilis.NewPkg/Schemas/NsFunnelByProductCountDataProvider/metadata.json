@@ -1,0 +1,37 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "5f4579bd-8ca9-41cb-859c-a4ea802c15a4",
+      "A2": "NsFunnelByProductCountDataProvider",
+      "A5": "f6a8c53e-5b78-4b55-8d2e-f13afe66c202",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "84442a2b-c1f1-c46f-ff23-a75ca35ca2ca",
+          "A2": "CntOpportunity",
+          "A3": "5f4579bd-8ca9-41cb-859c-a4ea802c15a4",
+          "A4": "5f4579bd-8ca9-41cb-859c-a4ea802c15a4",
+          "A5": "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+        },
+        {
+          "UId": "8c402f2f-3450-f7c0-0db4-fe88923d5d40",
+          "A2": "FunnelProductsCaption",
+          "A3": "5f4579bd-8ca9-41cb-859c-a4ea802c15a4",
+          "A4": "5f4579bd-8ca9-41cb-859c-a4ea802c15a4",
+          "A5": "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+        }
+      ],
+      "B3": [],
+      "B6": "3c64e3e2-4cf5-e264-2e9b-34e2348dab37",
+      "B8": "7.18.5.1500",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

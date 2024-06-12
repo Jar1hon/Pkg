@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "76161ae3-c777-48c3-aebe-e2bea0d2232a",
+    "Name": "UsrExampleMixin",
+    "ModifiedOnUtc": "\/Date(1717162390000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ExampleMixin",
+    "DependsOn": []
+  }
+}

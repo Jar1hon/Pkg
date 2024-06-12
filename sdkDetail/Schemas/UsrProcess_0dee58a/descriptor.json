@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb1f8e51-7200-413c-b9af-e92a3a8125b9",
+    "Name": "UsrProcess_0dee58a",
+    "ModifiedOnUtc": "\/Date(1717502565000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Процесс из другого процесса по сигналу"
+  }
+}

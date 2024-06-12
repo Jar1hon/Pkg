@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "199c650c-cb48-4083-9a1b-56582426d8e3",
+    "Name": "NsKnowledgeBaseArticleMiniPage",
+    "ModifiedOnUtc": "\/Date(1718094336000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Мини-карточка базы знаний"
+  }
+}

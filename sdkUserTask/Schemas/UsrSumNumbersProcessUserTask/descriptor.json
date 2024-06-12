@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c937e7b7-9f5d-4e94-997f-838a68d9f108",
+    "Name": "UsrSumNumbersProcessUserTask",
+    "ModifiedOnUtc": "\/Date(1717512919000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Действие процесса по суммированию чисел",
+    "DependsOn": []
+  }
+}

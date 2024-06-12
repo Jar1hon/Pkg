@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d13b956d-8280-44dd-a536-9d5ffab8969f",
+    "Name": "NsGetCoursesProcessNobilisNewPkg1",
+    "ModifiedOnUtc": "\/Date(1718104177000)\/",
+    "Parent": {
+      "UId": "2aeba434-377c-419c-99de-d6dae6085677",
+      "Name": "NsGetCoursesProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получение курса валют"
+  }
+}

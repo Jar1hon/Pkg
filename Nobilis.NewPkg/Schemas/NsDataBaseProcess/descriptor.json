@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "b8a87c4b-25fd-44cb-b251-1ad787d222cf",
+    "Name": "NsDataBaseProcess",
+    "ModifiedOnUtc": "\/Date(1717762127000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Insert, InsertSelect, Update, Delete"
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "8a8ec929-4566-41ca-801f-a27abc2fafc0",
+    "Name": "UsrGetAllContacts",
+    "ModifiedOnUtc": "\/Date(1717567563000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получить все контакты"
+  }
+}

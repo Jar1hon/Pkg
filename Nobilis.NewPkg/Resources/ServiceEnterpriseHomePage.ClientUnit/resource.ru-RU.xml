@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ComboBoxb4f87acd6bc655a126de6e73999148b3_ariaLabel.Value" Value="Выпадающий список" />
+			<Item Name="LocalizableStrings.ComboBoxb4f87acd6bc655a126de6e73999148b3_label.Value" Value="Выпадающий список" />
+			<Item Name="LocalizableStrings.IndicatorWidget2ca2d894f29ef98d4dc92e60a555b71e_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget2ca2d894f29ef98d4dc92e60a555b71e_title.Value" Value="Курс евро" />
+			<Item Name="LocalizableStrings.IndicatorWidgetf9546777a2939b29cbcc7f1ae6ce5982_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidgetf9546777a2939b29cbcc7f1ae6ce5982_title.Value" Value="Курс доллара" />
+			<Item Name="LocalizableStrings.Input1b3e8bb4d056514189446c900dbedbe2_label.Value" Value="Текст" />
+			<Item Name="LocalizableStrings.Input4dea28dc5848a3d9f3b9aa90ef01c98d_label.Value" Value="Текст" />
+		</Items>
+	</Group>
+</Resources>

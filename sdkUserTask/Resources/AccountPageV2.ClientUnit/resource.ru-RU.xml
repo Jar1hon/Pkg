@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница контрагента" />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Обслуживание" />
+			<Item Name="LocalizableStrings.CallProcessCaption.Value" Value="Назначить встречу" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Степень наполненности данными профиля. Нажмите на шкалу, чтобы посмотреть, каких данных не хватает в профиле." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Найдены данные ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Показать найденные данные для обогащения профиля контрагента" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Обогатить данные" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Найти новые данные для обогащения профиля контрагента" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контрагента в соц. сетях." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Обогатить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контрагента в соц. сетях" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="У вас нет прав на выполнение данного действия. Обратитесь к системному администратору." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

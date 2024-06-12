@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrKnowledgeBase.Caption" Value="Artigo da base de conhecimentos" />
+			<Item Name="EventsProcessSchema.Caption" Value="Processo" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "0802c947-a1e3-4604-b459-75bfde6a7105",
+    "Name": "UsrProcessSumNumbers",
+    "ModifiedOnUtc": "\/Date(1717513504000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Суммирование чисел"
+  }
+}

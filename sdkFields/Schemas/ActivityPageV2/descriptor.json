@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfa60451-8a74-4e54-a58c-4bba45f4df85",
+    "Name": "ActivityPageV2",
+    "ModifiedOnUtc": "\/Date(1717239705000)\/",
+    "Parent": {
+      "UId": "6e5551de-a0fa-48af-8d1b-7dc896060a1e",
+      "Name": "ActivityPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования активности",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8cf8049-7d55-422d-be79-2377af4ae586",
+    "Name": "DailyInfo",
+    "ModifiedOnUtc": "\/Date(1718099608000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "DailyInfo",
+    "DependsOn": []
+  }
+}

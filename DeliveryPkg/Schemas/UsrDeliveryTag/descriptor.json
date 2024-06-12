@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1e92a59e-f799-44aa-b477-9a944b424897",
+    "Name": "UsrDeliveryTag",
+    "ModifiedOnUtc": "\/Date(1717582920000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Служба доставки товаров"
+  }
+}

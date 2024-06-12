@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConnectedObjectColumnUId.Caption" Value="UId of the connected object column" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConnectedObjectColumnUId.DisplayValue" Value="f442867d-73ca-49b3-a8ba-8a2566b1fc59" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConnectedObjectId.Caption" Value="Id of the connected object" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConnectedObjectId.DisplayValue" Value="[#Справочник.Контакт.Andrew Baker (sample).c4ed336c-3e9b-40fe-8b82-5632476472b4#]" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.CreatedObjectFileIds.Caption" Value="Id of created files" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.IsSeparateReports.Caption" Value="Generate a separate report for each record" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.IsSeparateReports.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ReportFiles.Caption" Value="Collection of reports" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ReportFiles.File.Caption" Value="File" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ReportId.DisplayValue" Value="e458da05-4cd8-1b34-0669-27491aee6aa5" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ReportName.Caption" Value="File name" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ReportNameDataSourceColumnUId.Caption" Value="Column Id from selection for file name" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ResultActionType.Caption" Value="Report action type" />
+			<Item Name="BaseElements.ReportFileProcessingUserTask1.Parameters.ResultActionType.DisplayValue" Value="0" />
+			<Item Name="Caption" Value="Бизнес-процесс 8" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>

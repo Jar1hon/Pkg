@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Провайдер расчета" />
+			<Item Name="LocalizableStrings.CntOpportunity.Value" Value="Количество продаж" />
+			<Item Name="LocalizableStrings.FunnelProductsCaption.Value" Value="Количество типов контакта" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f3e1a3b8-5b87-434f-ba55-3c3b4c8057c6",
+    "Name": "UsrExampleSchema",
+    "ModifiedOnUtc": "\/Date(1717162558000)\/",
+    "Parent": {
+      "UId": "8b8587c7-3fb2-4104-917e-1da5cbea22b1",
+      "Name": "BaseProfileSchema"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ExampleSchema"
+  }
+}

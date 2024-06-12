@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "890ddd52-183c-4d38-8949-bb429b333b0e",
+    "Name": "UsrGroupTraining",
+    "ModifiedOnUtc": "\/Date(1716981908000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Групповое занятие",
+    "DependsOn": []
+  }
+}

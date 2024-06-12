@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4fd2caa-7cc5-486e-a3b3-4426f94e6684",
+    "Name": "UsrAmountService",
+    "ModifiedOnUtc": "\/Date(1716991264000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "AmountService",
+    "DependsOn": []
+  }
+}

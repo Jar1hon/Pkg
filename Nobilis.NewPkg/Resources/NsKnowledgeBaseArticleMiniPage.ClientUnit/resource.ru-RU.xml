@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Мини-карточка базы знаний" />
+			<Item Name="Images.34929fef-9551-949a-5213-bc556b3237ca.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAAAd0SU1FB+AMEAkuG8HK8PMAAAAHdEVYdEF1dGhvcgCprsxIAAAADHRFWHREZXNjcmlwdGlvbgATCSEjAAAACnRFWHRDb3B5cmlnaHQArA/MOgAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAd0RVh0U291cmNlAPX/g+sAAAAIdEVYdENvbW1lbnQA9syWvwAAAAZ0RVh0VGl0bGUAqO7SJwAAAUZJREFUOE+lkr1KBDEUhVcFBUFtLCxtbURLbWYnK2JhI7JWViskGVEsbASL6cTCwm7xAbaxkmVNBnwQa58k3jMzd0hmAioWh+SeOd/Nz6TnnPuXouZfFDV9UWJOKHMhtHWpMk+JspvBd79oazh8XSB4UsL6XaTajDBPLmcbnOlArGpl+wIAc/apyR28JscTXwAoOEawr4vTYzld5m9CWv1jg1TZR4SEKq4wHl2bVfgH8mMNNR1hh7MdWGjzUMH2BiMg+AxjB34+hDNzjhDt4CwK6+I2kdN1nwkbAMpmWxj7mUngNXC9I7qbzGc6Dei8S3zTaFLB1V2Q/+znoaAoQ5k5pP+/yE3oHZzU8JjSze9kBQXdwTbCA2n3UO+P3lbqJhM8Kj/L6hgDbXZLSJtPWvWL4Ps8z+fbOVbUhPB4YltuK2r+Xq73DcUQlaa7s7y6AAAAAElFTkSuQmCC" />
+		</Items>
+	</Group>
+</Resources>

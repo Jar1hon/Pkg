@@ -1,0 +1,38 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+      "A2": "UsrCurrencyIndicatorModule",
+      "A5": "436ea7e7-2a6f-41c5-b122-d6cfd34de0c6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "a2b7cc9c-7545-c3e1-3ea1-deede74621a7",
+      "B8": "7.18.5.1500",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [
+        {
+          "UId": "e94f127f-6992-fbd0-d47c-0737e0654ebf",
+          "A2": "GenerateIndicator",
+          "A3": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+          "A4": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+          "HX2": 1
+        },
+        {
+          "UId": "407eae99-11fe-43e8-1e7c-aa2af873d6f9",
+          "A2": "GetIndicatorConfig",
+          "A3": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+          "A4": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+          "HX1": 1,
+          "HX2": 1
+        }
+      ],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

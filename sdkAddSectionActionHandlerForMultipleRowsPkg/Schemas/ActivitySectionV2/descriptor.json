@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "96a60774-4c20-4b77-bb44-c98cb80eba8b",
+    "Name": "ActivitySectionV2",
+    "ModifiedOnUtc": "\/Date(1717160855000)\/",
+    "Parent": {
+      "UId": "569aaf1a-5943-4f87-ab47-948d941e4920",
+      "Name": "ActivitySectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ActivitySectionV2"
+  }
+}

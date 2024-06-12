@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c64e3e2-4cf5-e264-2e9b-34e2348dab37",
+    "Name": "Nobilis.NewPkg",
+    "ModifiedOnUtc": "\/Date(1717665599000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

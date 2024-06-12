@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Account.Caption" Value="Tổ chức" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Address.Caption" Value="Địa chỉ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.AddressType.Caption" Value="Loại địa chỉ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Age.Caption" Value="Tuổi" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.BirthDate.Caption" Value="Ngày sinh" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.City.Caption" Value="Thành phố" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Completeness.Caption" Value="Thuân thủ các quy tắc nhập dữ liệu" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Confirmed.Caption" Value="Xác nhận" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Country.Caption" Value="Đất nước" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Được tạo bởi" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Được tạo vào" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Dear.Caption" Value="Tên người nhận" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DecisionRole.Caption" Value="Vai trò" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Department.Caption" Value="Bộ phận" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DoNotUseCall.Caption" Value="Không được dùng điện thoại" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DoNotUseEmail.Caption" Value="Không được dùng email" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DoNotUseFax.Caption" Value="Không được dùng fax" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DoNotUseMail.Caption" Value="Không được dùng mail" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DoNotUseSms.Caption" Value="Không được dùng SMS" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Email.Caption" Value="Email" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Facebook.Caption" Value="Facebook" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.FacebookAFDA.Caption" Value="Tài khoản Facebook để tiếp cận dữ liệu" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.FacebookId.Caption" Value="FacebookId" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Gender.Caption" Value="Giới tính" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.GivenName.Caption" Value="Tên" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.GPSE.Caption" Value="GPS E" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.GPSN.Caption" Value="GPS N" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.HomePhone.Caption" Value="Điện thoại nhà" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Job.Caption" Value="Tên công việc" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.JobTitle.Caption" Value="Tên công việc đầy đủ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Language.Caption" Value="Ngôn ngữ thích dùng" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.LinkedIn.Caption" Value="LinkedIn" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.LinkedInAFDA.Caption" Value="Tài khoản Linkedin để tiếp cận dữ liệu" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.LinkedInId.Caption" Value="LinkedInId" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.MiddleName.Caption" Value="Tên đệm" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.MobilePhone.Caption" Value="Điện thoại di động" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedBy.Caption" Value="Chỉnh sửa bởi" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedOn.Caption" Value="Điều chỉnh vào ngày" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Name.Caption" Value="Tên đầy đủ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Notes.Caption" Value="Các ghi chú" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Owner.Caption" Value="Người phụ trách" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Phone.Caption" Value="Số điện thoại kinh doanh" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Photo.Caption" Value="Ảnh" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ProcessListeners.Caption" Value="Những quy trình đang hoạt động" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Region.Caption" Value="Bang/tỉnh" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SalutationType.Caption" Value="Chức danh" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Skype.Caption" Value="Skype" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Surname.Caption" Value="Họ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Twitter.Caption" Value="Twitter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.TwitterAFDA.Caption" Value="Tài khoản Twitter để tiếp cận dữ liệu" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.TwitterId.Caption" Value="TwitterId" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Type.Caption" Value="Loại" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Zip.Caption" Value="ZIP/mã bưu chính" />
+		</Items>
+	</Group>
+</Resources>

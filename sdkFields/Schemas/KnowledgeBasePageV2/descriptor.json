@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "384497bb-af7d-430a-aac9-1798099a28bd",
+    "Name": "KnowledgeBasePageV2",
+    "ModifiedOnUtc": "\/Date(1717240865000)\/",
+    "Parent": {
+      "UId": "9dbd0611-fa52-4a90-9542-e5fd997b4afd",
+      "Name": "KnowledgeBasePageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования базы знаний"
+  }
+}

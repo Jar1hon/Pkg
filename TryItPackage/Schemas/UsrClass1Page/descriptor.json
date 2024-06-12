@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "479f269a-c7a7-41f7-a564-643f6eff1949",
+    "Name": "UsrClass1Page",
+    "ModifiedOnUtc": "\/Date(1716989455000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Групповые секции\""
+  }
+}

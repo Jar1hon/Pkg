@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "92d1b4db-46bf-4be4-9104-d1602e47f94b",
+    "Name": "UsrDeliveryPage",
+    "ModifiedOnUtc": "\/Date(1717584413000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Служба доставки товаров\""
+  }
+}

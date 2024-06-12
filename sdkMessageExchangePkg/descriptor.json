@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "194a44ef-b965-8004-9781-58a5cd96339d",
+    "Name": "sdkMessageExchangePkg",
+    "ModifiedOnUtc": "\/Date(1717143765000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0d89b5fc-422d-4216-82ee-4270b1ed0ef5",
+    "Name": "UsrClassInTag",
+    "ModifiedOnUtc": "\/Date(1716980859000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Групповые секции section record tag",
+    "DependsOn": []
+  }
+}

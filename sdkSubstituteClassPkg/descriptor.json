@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "dda94a4d-e0fe-8a51-163b-8fc94ba5ed25",
+    "Name": "sdkSubstituteClassPkg",
+    "ModifiedOnUtc": "\/Date(1716990651000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce5143c7-9fd8-8e1d-54d8-cf8ef213d168",
+    "Name": "sdkBackgroundTaskPkg",
+    "ModifiedOnUtc": "\/Date(1717048946000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

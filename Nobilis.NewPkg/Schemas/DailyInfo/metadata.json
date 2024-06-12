@@ -1,0 +1,477 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "a8cf8049-7d55-422d-be79-2377af4ae586",
+      "A2": "DailyInfo",
+      "A5": "f6a8c53e-5b78-4b55-8d2e-f13afe66c202",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "3c64e3e2-4cf5-e264-2e9b-34e2348dab37",
+      "B8": "7.18.5.1500",
+      "IQ1": "http://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx",
+      "IQ2": 3,
+      "IQ7": [
+        {
+          "UId": "0c0ee238-2a33-4c78-9534-5148416e75a7",
+          "A2": "http://web.cbr.ru/",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "JG1": "tem",
+          "JG2": true
+        }
+      ],
+      "IQ4": [
+        {
+          "UId": "f20e35d9-a92a-7a98-3bf7-ff8318e4cdc8",
+          "A2": "GCDynamic_6af5b4c8",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetCursDynamic",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "7da706a1-3d22-4eaa-5c73-28388f1b65a5",
+                "A2": "FDate",
+                "IU1": "tem:FromDate",
+                "IU2": "DateTime",
+                "IU8": "tem:FromDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "d693d93b-00b9-10da-3af1-ce39af826c91",
+                "A2": "TDate",
+                "IU1": "tem:ToDate",
+                "IU2": "DateTime",
+                "IU8": "tem:ToDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "2e6b163c-aed2-3efb-2a7f-364d013aa922",
+                "A2": "VCode",
+                "IU1": "tem:ValutaCode",
+                "IU2": "Text",
+                "IU8": "tem:ValutaCode",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetCursDynamic"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "56aeba9d-71d3-37ed-7974-9712934baf98",
+                "A2": "GCDResult",
+                "IU1": "tem:GetCursDynamicResult/tem:null",
+                "IU2": "Object",
+                "IU8": "tem:null",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "5fa47bc4-117b-63e2-a1a0-9cf2bc3ad98d",
+          "A2": "GCDynamic_cc228f0b",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetCursDynamicXML",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "a81c25c1-4c76-5e3a-0bbd-fca0dd74dbc0",
+                "A2": "FDate",
+                "IU1": "tem:FromDate",
+                "IU2": "DateTime",
+                "IU8": "tem:FromDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "0e65c3d2-e2ec-d7b5-160a-e0ba5ee5ca09",
+                "A2": "TDate",
+                "IU1": "tem:ToDate",
+                "IU2": "DateTime",
+                "IU8": "tem:ToDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "82ae1ca4-8850-d51b-86c6-8e6748cc0ce6",
+                "A2": "VCode",
+                "IU1": "tem:ValutaCode",
+                "IU2": "Text",
+                "IU8": "tem:ValutaCode",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetCursDynamicXML"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "79da5dc0-11ec-bfbe-be1a-efab1c4855c8",
+                "A2": "GCDResult",
+                "IU1": "tem:GetCursDynamicXMLResult",
+                "IU2": "Object",
+                "IU8": "tem:GetCursDynamicXMLResult",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "d65c7b64-ac10-a1db-72e1-732e93ee4e72",
+          "A2": "GCODate_ef74568d",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetCursOnDate",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "be5fe886-ba4c-1a7c-f0e3-8cbbe48e3146",
+                "A2": "On",
+                "IU1": "tem:On_date",
+                "IU2": "DateTime",
+                "IU8": "tem:On_date",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetCursOnDate"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "0d11498b-b907-0aaa-702b-f03f3989b4d3",
+                "A2": "GCODResult",
+                "IU1": "tem:GetCursOnDateResult/tem:null",
+                "IU2": "Object",
+                "IU8": "tem:null",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "f5cbd033-1091-a0e4-5b1e-469f693b5a1b",
+          "A2": "GCODate_b2d40d77",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetCursOnDateXML",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "d9dce8e1-d017-e0b8-68bc-9a4e501e069f",
+                "A2": "On",
+                "IU1": "tem:On_date",
+                "IU2": "DateTime",
+                "IU8": "tem:On_date",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetCursOnDateXML"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "054e4eeb-a7e3-4d8a-ca7a-e2990a3266e1",
+                "A2": "GCODResult",
+                "IU1": "tem:GetCursOnDateXMLResult",
+                "IU2": "Object",
+                "IU8": "tem:GetCursOnDateXMLResult",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "46a81f0c-49d0-2f21-8854-fdaac82fe0cd",
+          "A2": "GRCDynamic_79777f7c",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetReutersCursDynamic",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "d7105789-3050-c37a-ca09-739a739ae4cf",
+                "A2": "FDate",
+                "IU1": "tem:FromDate",
+                "IU2": "DateTime",
+                "IU8": "tem:FromDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "9f8f7b32-eb60-05bd-114b-ef18a055dc44",
+                "A2": "TDate",
+                "IU1": "tem:ToDate",
+                "IU2": "DateTime",
+                "IU8": "tem:ToDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "aaf2e730-5988-b746-d6dc-2b655fb6f692",
+                "A2": "NCode",
+                "IU1": "tem:NumCode",
+                "IU2": "Integer",
+                "IU8": "tem:NumCode",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetReutersCursDynamic"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "f2cdb4ef-bdac-887b-1747-d715e877de1a",
+                "A2": "GRCDResult",
+                "IU1": "tem:GetReutersCursDynamicResult/tem:null",
+                "IU2": "Object",
+                "IU8": "tem:null",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "63b64eca-e4d6-05a0-10e0-ec82e931ecd4",
+          "A2": "GRCDynamic_9132ce3b",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetReutersCursDynamicXML",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "f486499b-d753-b5a3-7519-dc65fc880f31",
+                "A2": "FDate",
+                "IU1": "tem:FromDate",
+                "IU2": "DateTime",
+                "IU8": "tem:FromDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "3ce0b971-eae0-de20-c290-8feca5103eee",
+                "A2": "TDate",
+                "IU1": "tem:ToDate",
+                "IU2": "DateTime",
+                "IU8": "tem:ToDate",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "b7a1c2f5-afa3-eb15-cf14-893def89f21b",
+                "A2": "NCode",
+                "IU1": "tem:NumCode",
+                "IU2": "Integer",
+                "IU8": "tem:NumCode",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetReutersCursDynamicXML"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "0288cfc4-d77f-b079-5ae5-9b6f73bfcfdb",
+                "A2": "GRCDResult",
+                "IU1": "tem:GetReutersCursDynamicXMLResult",
+                "IU2": "Object",
+                "IU8": "tem:GetReutersCursDynamicXMLResult",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "bd0e5ea1-03f2-ebf7-f6f3-0fbd30db1482",
+          "A2": "GRCODate_cc731671",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetReutersCursOnDate",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "6f3a7335-6740-3187-31d1-ae36ce187e2f",
+                "A2": "On",
+                "IU1": "tem:On_date",
+                "IU2": "DateTime",
+                "IU8": "tem:On_date",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetReutersCursOnDate"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "4c0c0cde-6b63-269a-4bd7-00bf29921967",
+                "A2": "GRCODResult",
+                "IU1": "tem:GetReutersCursOnDateResult/tem:null",
+                "IU2": "Object",
+                "IU8": "tem:null",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "5aa65d9c-9f79-7718-a1d4-70c4e7c9a8a9",
+          "A2": "GRCODate_7ef3fb22",
+          "A3": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "A4": "a8cf8049-7d55-422d-be79-2377af4ae586",
+          "IR3": 5000,
+          "IR5": "http://web.cbr.ru/GetReutersCursOnDateXML",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "2da726d2-ea2b-b953-a3fa-03e794720eab",
+                "A2": "On",
+                "IU1": "tem:On_date",
+                "IU2": "DateTime",
+                "IU8": "tem:On_date",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "GetReutersCursOnDateXML"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "bce1dbbd-7383-6060-c451-2ce6badb1b93",
+                "A2": "GRCODResult",
+                "IU1": "tem:GetReutersCursOnDateXMLResult",
+                "IU2": "Object",
+                "IU8": "tem:GetReutersCursOnDateXMLResult",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

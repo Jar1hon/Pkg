@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1960f249-3057-4d16-bc09-77834a28eb9e",
+    "Name": "UsrDeliveryFolder",
+    "ModifiedOnUtc": "\/Date(1717582915000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Служба доставки товаров"
+  }
+}

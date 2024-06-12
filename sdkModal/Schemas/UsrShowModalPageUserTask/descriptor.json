@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d6f624b-4353-4af3-b93e-58424adc5e45",
+    "Name": "UsrShowModalPageUserTask",
+    "ModifiedOnUtc": "\/Date(1717423157000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Показать модальное окно",
+    "DependsOn": []
+  }
+}

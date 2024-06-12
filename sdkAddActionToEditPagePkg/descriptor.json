@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a19b8cf-34ba-f538-cc10-bbee3ad4a372",
+    "Name": "sdkAddActionToEditPagePkg",
+    "ModifiedOnUtc": "\/Date(1717236821000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

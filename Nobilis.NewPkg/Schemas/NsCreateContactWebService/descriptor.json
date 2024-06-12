@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f32996d3-28e1-464b-85e5-79484b9bd8ce",
+    "Name": "NsCreateContactWebService",
+    "ModifiedOnUtc": "\/Date(1718004333000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Создать контакт через Web Service"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "78ecef53-1028-47ed-bf11-443a950d6c01",
+    "Name": "UsrDeliveryb40f0f9fSection",
+    "ModifiedOnUtc": "\/Date(1717582900000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Служба доставки товаров\""
+  }
+}

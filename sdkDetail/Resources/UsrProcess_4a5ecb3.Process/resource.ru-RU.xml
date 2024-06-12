@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Добавлен новый контрагент" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Обработка нового контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ProcessSchemaParameter1.Caption" Value="id контрагента" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#id контрагента#]" />
+			<Item Name="Caption" Value="Автоматический процесс после изменения" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="id контрагента" />
+			<Item Name="Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#Добавлен новый контрагент.Уникальный идентификатор записи#]" />
+		</Items>
+	</Group>
+</Resources>

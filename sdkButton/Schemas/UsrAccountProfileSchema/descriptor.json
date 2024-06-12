@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8161dcc-581d-45dc-8a21-bd0e0d9dc5b5",
+    "Name": "UsrAccountProfileSchema",
+    "ModifiedOnUtc": "\/Date(1717415020000)\/",
+    "Parent": {
+      "UId": "e2ef070e-eb17-4c57-bfef-a826fb3d6d26",
+      "Name": "AccountProfileSchema"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Профиль контрагента"
+  }
+}

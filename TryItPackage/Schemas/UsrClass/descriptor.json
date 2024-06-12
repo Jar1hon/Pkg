@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5a0b90df-6294-45bd-b3da-a1f69433a543",
+    "Name": "UsrClass",
+    "ModifiedOnUtc": "\/Date(1716981316000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Групповые секции",
+    "DependsOn": []
+  }
+}

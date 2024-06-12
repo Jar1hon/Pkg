@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrKnowledgeBase.Caption" Value="Статья базы знаний" />
+			<Item Name="EventsProcessSchema.Caption" Value="Активность" />
+		</Items>
+	</Group>
+</Resources>

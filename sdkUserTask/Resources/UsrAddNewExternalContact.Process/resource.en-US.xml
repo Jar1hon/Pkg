@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTaskAddContact.Caption" Value="Добавить контакт" />
+			<Item Name="Caption" Value="Add New External Contact" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.ContactName.Caption" Value="Имя контакта" />
+			<Item Name="Parameters.ContactPhone.Caption" Value="Телефон контакта" />
+		</Items>
+	</Group>
+</Resources>

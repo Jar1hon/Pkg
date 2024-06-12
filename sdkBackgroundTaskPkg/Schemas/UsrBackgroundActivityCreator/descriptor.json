@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "378f2793-2aff-4eed-bae8-a5dc308ed8f9",
+    "Name": "UsrBackgroundActivityCreator",
+    "ModifiedOnUtc": "\/Date(1717049272000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "BackgroundActivityCreator",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AllDoneCaption.Value" Value="Отметить как &quot;Завершены&quot;" />
+			<Item Name="LocalizableStrings.DeleteMeetingWithInvitationsConfirmationMessage.Value" Value="Вы действительно хотите удалить выделенную запись? Все участники получат обновленную информацию о встрече. Подтвердите, что хотите продолжить." />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Перейти к дублям раздела '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Отчет будет сформирован по всем записям раздела, без учета фильтров. Продолжить?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Загрузка писем завершена" />
+			<Item Name="LocalizableStrings.MultiDeleteMeetingWithInvitationsConfirmationMessage.Value" Value="Вы действительно хотите удалить выделенные записи? Все участники получат обновленную информацию о встрече. Подтвердите, что хотите продолжить." />
+			<Item Name="LocalizableStrings.SetOwnerCaption.Value" Value="Назначить ответственного" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Настроить синхронизацию активностей" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="Синхронизация начата. Мы покажем вам уведомление, когда она завершится." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Поздравляем! Теперь ваши встречи и задачи всегда будут актуальными.&lt;br&gt;Вы можете &lt;a href=&quot;#&quot;&gt;изменить настройки&lt;/a&gt;, которые мы установили по умолчанию." />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Синхронизировать с задачами и встречами Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+		</Items>
+	</Group>
+</Resources>

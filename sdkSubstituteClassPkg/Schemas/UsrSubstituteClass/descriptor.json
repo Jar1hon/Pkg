@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "53ed298e-5dc1-4e1d-ba8d-fb729d5ae0fc",
+    "Name": "UsrSubstituteClass",
+    "ModifiedOnUtc": "\/Date(1716990836000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SubstituteClass",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e2e73d2-21a4-484d-bd85-916d6123086f",
+    "Name": "UsrLimitedIntegerEdit",
+    "ModifiedOnUtc": "\/Date(1717147431000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LimitedIntegerEdit",
+    "DependsOn": []
+  }
+}

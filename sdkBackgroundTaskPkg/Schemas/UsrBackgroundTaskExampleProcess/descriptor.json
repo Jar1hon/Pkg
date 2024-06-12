@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "095591a1-d04f-4968-ab7e-e3743ae29300",
+    "Name": "UsrBackgroundTaskExampleProcess",
+    "ModifiedOnUtc": "\/Date(1717049609000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Background Task Example Process"
+  }
+}

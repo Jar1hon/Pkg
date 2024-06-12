@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f6be144-5663-40fe-8834-7997b4ea9ec3",
+    "Name": "UsrDeliveryCities",
+    "ModifiedOnUtc": "\/Date(1717583481000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Схема детали: \"Города доставки\""
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "2055cc45-896d-4188-b850-507852d89562",
+    "Name": "NsESQSelectionProcess",
+    "ModifiedOnUtc": "\/Date(1717754604000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получить данные из базы данных с учетом прав пользователя"
+  }
+}

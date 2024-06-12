@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "83d5d77e-7ecb-4381-9708-ee6b7aa529bc",
+    "Name": "UsrCurrencyIndicatorModule",
+    "ModifiedOnUtc": "\/Date(1717432231000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Модуль показателя валюты",
+    "DependsOn": []
+  }
+}

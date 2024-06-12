@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "c802407e-052a-505a-0b50-19b9b480a5a0",
+    "Name": "sdkButton",
+    "ModifiedOnUtc": "\/Date(1717408994000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

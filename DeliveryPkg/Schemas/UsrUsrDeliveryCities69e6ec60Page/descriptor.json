@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "31238c53-5edc-40be-bf12-dc63c49061cb",
+    "Name": "UsrUsrDeliveryCities69e6ec60Page",
+    "ModifiedOnUtc": "\/Date(1717583497000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Города доставки\""
+  }
+}

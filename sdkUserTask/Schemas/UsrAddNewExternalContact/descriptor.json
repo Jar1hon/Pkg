@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "05b7b50f-3129-4290-89eb-66a4e4e24da1",
+    "Name": "UsrAddNewExternalContact",
+    "ModifiedOnUtc": "\/Date(1717567443000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создать контакт"
+  }
+}

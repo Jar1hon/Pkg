@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "dcc245b1-aba0-44a5-a350-46b77bd1eda8",
+    "Name": "NsCustomWebService",
+    "ModifiedOnUtc": "\/Date(1717997952000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Вызов GET метода из браузерной строки"
+  }
+}

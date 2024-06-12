@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8732392d-2fab-41bc-ad60-d39046c0a6e3",
+    "Name": "UsrShowModalPageUserTaskMixin",
+    "ModifiedOnUtc": "\/Date(1717423247000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ShowModalPageUserTaskMixin",
+    "DependsOn": []
+  }
+}

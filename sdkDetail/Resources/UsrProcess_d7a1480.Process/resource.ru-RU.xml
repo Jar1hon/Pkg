@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivityUserTask1.Caption" Value="Назначение встречи" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.DisplayValue" Value="[#Системная переменная.Контрагент текущего пользователя#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.DisplayValue" Value="Встреча" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.Caption" Value="Приоритет" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачи" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Listing.Caption" Value="Листинги" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Property.Caption" Value="Объекты недвижимости" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.QueueItem.Caption" Value="Элемент очереди" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.DisplayValue" Value="Назначить встречу" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Value" Value="Назначить встречу" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Да" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Нет" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Caption" Value="Назначить встречу?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Account.DisplayValue" Value="[#Системная переменная.Контрагент текущего пользователя#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityCategory.DisplayValue" Value="Выполнить" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityPriority.Caption" Value="Приоритет" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.BranchingDecisions.Caption" Value="Варианты ответов" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.BranchingDecisions.Value.4682ba83-a70a-4c68-8521-d360d443e387.Caption" Value="Да" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.BranchingDecisions.Value.57a39a69-e99c-4385-84d5-886deb692d6d.Caption" Value="Нет" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contact.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.CreateActivity.Caption" Value="Создать активность" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.CreateActivity.DisplayValue" Value="true" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачи" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DecisionMode.Caption" Value="Режим выбора вариантов" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DecisionMode.DisplayValue" Value="0" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Incident.Caption" Value="Обращение" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.IsDecisionRequired.Caption" Value="Обязательно должен быть выбран один из вариантов" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.IsDecisionRequired.DisplayValue" Value="true" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Listing.Caption" Value="Листинг" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Property.Caption" Value="Объект недвижимости" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Question.Caption" Value="Вопрос" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Question.DisplayValue" Value="Назначить встречу?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Question.Value" Value="Назначить встречу?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.DisplayValue" Value="Назначить встречу?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.Value" Value="Назначить встречу?" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBefore.DisplayValue" Value="5" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ResultDecisions.Caption" Value="Выбранные ответы" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RoleId.DisplayValue" Value="[#Справочник.Роли (представление).All employees.a29a3ba5-4b0d-de11-9a51-005056c00008#]" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartIn.DisplayValue" Value="30" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.WindowCaption.Caption" Value="Заголовок Окна" />
+			<Item Name="Caption" Value="Бизнес-процесс 3" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>

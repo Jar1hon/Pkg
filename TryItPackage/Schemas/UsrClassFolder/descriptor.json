@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c86335e-ba7f-401c-84e7-d07853fe495c",
+    "Name": "UsrClassFolder",
+    "ModifiedOnUtc": "\/Date(1716980853000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Групповые секции folder",
+    "DependsOn": []
+  }
+}

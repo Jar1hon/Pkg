@@ -1,0 +1,20 @@
+= MetaData.Schema.UId "199c650c-cb48-4083-9a1b-56582426d8e3"
+= MetaData.Schema.A2 "NsKnowledgeBaseArticleMiniPage"
+= MetaData.Schema.A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A4 "199c650c-cb48-4083-9a1b-56582426d8e3"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A4 "199c650c-cb48-4083-9a1b-56582426d8e3"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A4 "199c650c-cb48-4083-9a1b-56582426d8e3"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A5 "f6a8c53e-5b78-4b55-8d2e-f13afe66c202"
+= MetaData.Schema.B6 "3c64e3e2-4cf5-e264-2e9b-34e2348dab37"
+= MetaData.Schema.B8 "7.18.5.1500"
++ MetaData.Schema.HD8 {
+  "UId": "34929fef-9551-949a-5213-bc556b3237ca",
+  "A2": "FilesImage",
+  "A3": "199c650c-cb48-4083-9a1b-56582426d8e3",
+  "A4": "199c650c-cb48-4083-9a1b-56582426d8e3"
+}
+~ MetaData.Schema.HD8 ["b0826200-b05a-4a58-a336-84ab3a6c530b","441b6633-87e3-4e54-97f3-784c0c9bcfa4","6d103736-950b-49f9-9862-189b7f142922","33504db6-7586-4bc7-bdce-832aa5a04ab2","c07a018f-e456-45ed-b18f-5af556825ac2","9043ee8e-8676-4114-ad2e-06286fe0c174","d40063f7-1bac-46b1-aad7-e582117b47a2","abe99ef0-a53b-474b-b55c-222ea82550c6","34929fef-9551-949a-5213-bc556b3237ca"]
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

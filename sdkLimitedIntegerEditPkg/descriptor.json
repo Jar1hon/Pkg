@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "31cfca79-80ca-308d-13c3-eea6e9b05240",
+    "Name": "sdkLimitedIntegerEditPkg",
+    "ModifiedOnUtc": "\/Date(1717147321000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

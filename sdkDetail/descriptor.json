@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ed925a24-b900-2878-c1c3-804bb2d94837",
+    "Name": "sdkDetail",
+    "ModifiedOnUtc": "\/Date(1717419763000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

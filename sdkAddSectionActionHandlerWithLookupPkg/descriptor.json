@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "960518eb-2a21-c168-6ad5-c410520e1d14",
+    "Name": "sdkAddSectionActionHandlerWithLookupPkg",
+    "ModifiedOnUtc": "\/Date(1717232376000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

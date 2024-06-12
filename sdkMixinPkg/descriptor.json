@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ce5241e-2970-642f-5dcb-3d11b8a610f0",
+    "Name": "sdkMixinPkg",
+    "ModifiedOnUtc": "\/Date(1717162339000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

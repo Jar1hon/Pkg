@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ea8e78d-081e-478f-b9a2-a0fab48db95c",
+    "Name": "NsSelectCountryUserTask",
+    "ModifiedOnUtc": "\/Date(1717741738000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Получить название страны по Id контакта"
+  }
+}

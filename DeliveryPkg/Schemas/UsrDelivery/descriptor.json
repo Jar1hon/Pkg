@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5f37ea9-9e1d-490f-b6a5-983f29294b72",
+    "Name": "UsrDelivery",
+    "ModifiedOnUtc": "\/Date(1718017176000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Служба доставки товаров"
+  }
+}

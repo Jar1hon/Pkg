@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "226a15a4-ed7e-4e87-a7a3-9d689267be25",
+    "Name": "NsCustomConfigurationService",
+    "ModifiedOnUtc": "\/Date(1717997394000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Пользовательский веб-сервис с аутентификацией на основе cookies"
+  }
+}

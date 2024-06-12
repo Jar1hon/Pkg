@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "17d6476c-1f2c-dbc1-709e-c49e403a8f93",
+    "Name": "sdkAddSectionActionHandlerForMultipleRowsPkg",
+    "ModifiedOnUtc": "\/Date(1717160674000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}

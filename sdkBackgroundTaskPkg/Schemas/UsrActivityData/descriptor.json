@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f218a8f-1fc8-4f04-8b88-b31a43d232db",
+    "Name": "UsrActivityData",
+    "ModifiedOnUtc": "\/Date(1717049056000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ActivityData",
+    "DependsOn": []
+  }
+}

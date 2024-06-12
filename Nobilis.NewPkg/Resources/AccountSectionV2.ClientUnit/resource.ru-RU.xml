@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Раздел коонтрагенты" />
+			<Item Name="LocalizableStrings.CallProcessCaption.Value" Value="Назначить встречу" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Контрагенты" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Перейти к дублям раздела '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Обогатить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Отчет будет сформирован по всем записям раздела, без учета фильтров. Продолжить?" />
+			<Item Name="LocalizableStrings.NsFetchFromDbButton.Value" Value="Результат запроса из БД" />
+			<Item Name="LocalizableStrings.OpenPrimaryContactButtonCaption.Value" Value="Основной контакт" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+		</Items>
+	</Group>
+</Resources>

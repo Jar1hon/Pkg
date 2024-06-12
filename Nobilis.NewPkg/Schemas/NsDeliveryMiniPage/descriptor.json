@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5998bea-1ef1-4788-bed3-0bd4cb42441e",
+    "Name": "NsDeliveryMiniPage",
+    "ModifiedOnUtc": "\/Date(1718095249000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Мини-карточка доставки"
+  }
+}

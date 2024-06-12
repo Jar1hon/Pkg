@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0725bc8c-d006-444b-96a3-626b92bd610d",
+    "Name": "ServiceEnterpriseHomePage",
+    "ModifiedOnUtc": "\/Date(1718106759000)\/",
+    "Parent": {
+      "UId": "05fe36d7-19fe-4b18-b7a7-50480820f292",
+      "Name": "ServiceEnterpriseHomePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Домашняя страница руководителя службы поддержки"
+  }
+}

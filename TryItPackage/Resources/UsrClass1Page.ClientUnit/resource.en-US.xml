@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Групповые секции&quot;" />
+			<Item Name="LocalizableStrings.AddTrainingsActionCaption.Value" Value="Add training" />
+			<Item Name="LocalizableStrings.GetServiceInfoButtonCaption.Value" Value="WebService" />
+			<Item Name="LocalizableStrings.UsrSchema5d0d999aDetail9211e843DetailCaptionOnPage.Value" Value="Групповое занятие" />
+		</Items>
+	</Group>
+</Resources>

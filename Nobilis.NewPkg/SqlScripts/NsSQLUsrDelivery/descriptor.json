@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "dfc265f7-122f-0ad4-62b7-1bc225d50787",
+    "Name": "NsSQLUsrDelivery",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1717666803000)\/",
+    "DependsOn": []
+  }
+}

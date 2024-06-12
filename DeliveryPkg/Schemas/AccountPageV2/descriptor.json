@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "07030fcf-0547-4ea0-94a3-bd097464870d",
+    "Name": "AccountPageV2",
+    "ModifiedOnUtc": "\/Date(1717666990000)\/",
+    "Parent": {
+      "UId": "f5edc79d-8d39-4e51-a255-57ccf3f1349e",
+      "Name": "AccountPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования контрагента\t"
+  }
+}

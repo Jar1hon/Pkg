@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "637a3fac-1f0c-4501-8036-5545e038c9cf",
+    "Name": "UsrProcess_4a5ecb3sdkDetail1",
+    "ModifiedOnUtc": "\/Date(1717502315000)\/",
+    "Parent": {
+      "UId": "c2629efa-4527-424b-8f35-aafd15e319cf",
+      "Name": "UsrProcess_4a5ecb3"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Автоматический процесс после изменения"
+  }
+}

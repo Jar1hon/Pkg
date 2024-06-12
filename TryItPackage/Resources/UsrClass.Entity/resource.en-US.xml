@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Групповые секции" />
+			<Item Name="Columns.UsrCoach.Caption" Value="Тренер" />
+			<Item Name="Columns.UsrCode.Caption" Value="Код секции" />
+			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrIsActive.Caption" Value="Активна" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrPeriodicity.Caption" Value="Периодичность" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d417e243-9448-46a5-bc1f-fbb30e782e98",
+    "Name": "UsrTrainingStatus",
+    "ModifiedOnUtc": "\/Date(1716981906000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние занятия",
+    "DependsOn": []
+  }
+}

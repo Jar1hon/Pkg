@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "16d2e279-f3bf-4942-9a42-7e8054f5fa0d",
+    "Name": "NsCurrentUserLivingCountryProcess",
+    "ModifiedOnUtc": "\/Date(1717744247000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получить название страны текущего контакта"
+  }
+}
