@@ -1,9 +1,0 @@
-﻿{
-  "Descriptor": {
-    "UId": "cf81220b-a671-471a-b7cd-3635fc3e55b4",
-    "Name": "NsGetRateProcess",
-    "ModifiedOnUtc": "\/Date(1718118549000)\/",
-    "ManagerName": "ProcessSchemaManager",
-    "Caption": "Получение курса валют 2"
-  }
-}

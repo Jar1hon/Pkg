@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "2aeba434-377c-419c-99de-d6dae6085677",
     "Name": "NsGetCoursesProcess",
-    "ModifiedOnUtc": "\/Date(1718116995000)\/",
+    "ModifiedOnUtc": "\/Date(1718258525000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Получение курса валют"
   }
