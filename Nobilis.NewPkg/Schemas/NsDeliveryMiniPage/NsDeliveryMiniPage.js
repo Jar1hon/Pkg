@@ -4,7 +4,10 @@ define("NsDeliveryMiniPage", [], function () {
     details: /**SCHEMA_DETAILS*/ {} /**SCHEMA_DETAILS*/,
     attributes: {
       MiniPageModes: {
-        value: [this.Terrasoft.ConfigurationEnums.CardOperation.ADD],
+        value: [
+          Terrasoft.ConfigurationEnums.CardOperation.VIEW,
+          Terrasoft.ConfigurationEnums.CardOperation.ADD,
+        ],
       },
     },
     diff: /**SCHEMA_DIFF*/ [
@@ -15,6 +18,7 @@ define("NsDeliveryMiniPage", [], function () {
         name: "UsrName",
         values: {
           isMiniPageModelItem: true,
+          visible: true,
           layout: {
             column: 0,
             row: 1,
@@ -25,20 +29,21 @@ define("NsDeliveryMiniPage", [], function () {
           },
         },
       },
-      {
-        operation: "insert",
-        parentName: "MiniPage",
-        propertyName: "items",
-        name: "UsrDeliveryWay",
-        values: {
-          isMiniPageModelItem: true,
-          layout: {
-            column: 0,
-            row: 2,
-            colSpan: 24,
-          },
-        },
-      },
+      // {
+      //   operation: "insert",
+      //   parentName: "MiniPage",
+      //   propertyName: "items",
+      //   name: "Type",
+      //   values: {
+      //     isMiniPageModelItem: true,
+      //     visible: true,
+      //     layout: {
+      //       column: 0,
+      //       row: 2,
+      //       colSpan: 24,
+      //     },
+      //   },
+      // },
     ] /**SCHEMA_DIFF*/,
   };
 });
